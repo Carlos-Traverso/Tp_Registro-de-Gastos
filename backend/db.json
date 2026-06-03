@@ -1,0 +1,69 @@
+{
+  "gastos": [
+    {
+      "descripcion": "Compra Alfajor Facultad",
+      "monto": 2000,
+      "categoria": "Transporte",
+      "fecha": "2026-06-02",
+      "id": "BesDF2OZfT8"
+    },
+    {
+      "descripcion": "Compra Turron Facultad",
+      "monto": 1000,
+      "categoria": "Comida",
+      "fecha": "2026-06-01",
+      "id": "4gIFoIbLqvI"
+    },
+    {
+      "descripcion": "Compra Semanal Supermercado",
+      "monto": 38000,
+      "categoria": "Comida",
+      "fecha": "2026-05-31",
+      "id": "LBqT1nR4X_c"
+    },
+    {
+      "descripcion": "Pago Luz Junio",
+      "monto": 18856,
+      "categoria": "Servicios",
+      "fecha": "2026-05-25",
+      "id": "SwPHg5v-Ll4"
+    },
+    {
+      "descripcion": "Pago Internet Junio",
+      "monto": 27950,
+      "categoria": "Servicios",
+      "fecha": "2026-05-25",
+      "id": "JusD7DmGpqU"
+    },
+    {
+      "descripcion": "Pago Subscripcion Aplicaciones",
+      "monto": 12000,
+      "categoria": "Servicios",
+      "fecha": "2026-06-02",
+      "id": "NwX9m40jXas"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nombre": "Comida"
+    },
+    {
+      "id": "2",
+      "nombre": "Transporte"
+    },
+    {
+      "id": "3",
+      "nombre": "Servicios"
+    },
+    {
+      "id": "4",
+      "nombre": "Entretenimiento"
+    },
+    {
+      "id": "5",
+      "nombre": "Otros"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
